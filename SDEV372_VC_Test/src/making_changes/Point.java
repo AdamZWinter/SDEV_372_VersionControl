@@ -34,4 +34,8 @@ public class Point {
     public void setZ(double z) {
         this.z = z;
     }
+
+    public void thisIsTheDiff(){
+        //nothing
+    }
 }
