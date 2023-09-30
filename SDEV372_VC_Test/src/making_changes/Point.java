@@ -38,4 +38,8 @@ public class Point {
     public void thisIsTheDiff(){
         //nothing
     }
+
+    public void afterResetHead(){
+        //This was added after the head was Hard reset to previous commit
+    }
 }
